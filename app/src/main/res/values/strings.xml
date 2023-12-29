@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+
+        <string name="pre_workout">Pre-Workout</string>
+        <string name="l_carnitine">L-Carnitine</string>
+        <!-- Add more strings for other supplements as needed -->
+
+</resources>
